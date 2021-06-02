@@ -1,0 +1,19 @@
+.hello {
+  font-family: "Alegreya", serif;
+  font-size: 90px;
+  text-align: center;
+  padding-left: 30px;
+  margin-bottom: 35px;
+}
+
+.intro,
+.intro2 {
+  text-align: center;
+}
+.icon1_div {
+  text-align: center;
+  word-spacing: 20px;
+}
+.fa {
+  color: rgba(3, 156, 216, 0.884) !important;
+}
