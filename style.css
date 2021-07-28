@@ -3,8 +3,8 @@
   font-size: 100px;
   text-align: center;
   padding-left: 30px;
-  margin-bottom: 35px;
-  margin-top: 12px;
+  margin-bottom: 30px;
+  margin-top: 10px;
 }
 
 .intro {
@@ -34,7 +34,7 @@
 .image_div {
   display: flex;
   justify-content: center;
-  padding-top: 40px;
+  padding-top: 10px;
 }
 .bg {
   animation: slide 3s ease-in-out infinite alternate;
